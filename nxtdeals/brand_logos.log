@@ -1,0 +1,357 @@
+=== started 2026-06-12T14:48:13+02:00 ===
+FAIL fetch  Evax (evx.es)
+FAIL fetch  Foxy (foxy.it)
+FAIL fetch  Carl&son (carlson.dk)
+OK   Stendhal (stendhal-paris.com) 32x32
+FAIL fetch  Moussel (moussel.fr)
+OK   Berilo (arteregal.com) 192x192
+SKIP tiny  Diadermine (diadermine.com) 16x16
+SKIP tiny  Sensai (sensai-cosmetics.com) 16x16
+OK   Lancaster (lancaster.com) 32x32
+OK   Tepe (ccsdental.es) 32x32
+OK   BigBuy Tech (bigbuy.eu) 256x256
+OK   DELOCK (delock.com) 180x180
+FAIL fetch  Kodak (kodaklens.es)
+OK   KSIX (atlantistelecom.com) 48x48
+OK   NANOCABLE (tooq.com) 192x192
+OK   Huawei (huawei.com) 256x256
+OK   Brother (brother.es) 32x32
+OK   Safta (safta.com) 100x100
+FAIL fetch  DCU Tecnologic (dcutec.com)
+OK   Mars Gaming (marsgaming.eu) 32x32
+OK   Sony (sony.eu) 144x144
+OK   HP (hp.com) 32x32
+OK   UBIQUITI (ui.com) 256x256
+OK   CoolBox (coolbox.es) 192x192
+OK   Startech (startech.com) 228x228
+SKIP tiny  V7 (ingrammicro.de) 16x16
+OK   Targus (es.targus.com) 32x32
+OK   i-Tec (itecproduct.com) 192x192
+OK   Trust (trust.com) 197x196
+OK   Contact (atlantistelecom.com) 48x48
+OK   Jabra (jabra.com) 96x96
+OK   HPE (hpe.com) 256x256
+OK   Riello (riello.it) 30x30
+OK   Epson (epson.es) 48x48
+OK   Nacon (nacongaming.com) 180x180
+OK   Microsoft (microsoft.com) 128x128
+OK   AOC (eu.aoc.com) 256x256
+SKIP tiny  Lanberg (lanberg.pl) 16x16
+OK   Canon (canon.es) 180x180
+OK   Hama (hama.com) 180x180
+OK   Lenovo (lenovo.com) 32x32
+OK   Nox-Xtreme (nox-xtreme.com) 256x256
+OK   ELBE (efw.aero) 256x256
+OK   Varta (varta-ag.com) 48x48
+OK   Munich (safta.com) 100x100
+OK   FR-TEC (fr-tec.com) 180x180
+SKIP tiny  GEMBIRD (gembird.nl) 18x35
+OK   Xiaomi (mi.com) 196x196
+OK   Kingston (kensington.com) 192x192
+OK   Mickey Mouse Clubhouse (disney.nl) 200x200
+OK   Trendnet (trendnet.eu) 48x48
+OK   Xerox (xerox.es) 256x256
+OK   Urban Factory (urban-factory.com) 32x32
+OK   Cool (koopmanint.com) 192x192
+OK   Bandai Namco (bandainamcoent.eu) 256x256
+OK   Conceptronic (conceptronic.net) 75x75
+OK   Equip (digital-data.de) 256x256
+OK   PcCom (pccomponentes.com) 180x180
+OK   Tempest (tempest.com) 180x180
+SKIP tiny  CISCO (cisco.com) 16x16
+OK   Panduit (panduit.com) 180x180
+OK   BigBuy Accessories (bigbuy.eu) 256x256
+OK   Belkin (belkin.com) 196x196
+OK   Samsung (samsung.com) 144x144
+OK   Panasonic (tema.fr) 192x192
+OK   Silver Electronics (silversanz.com) 192x192
+OK   Compulocks (maclocks.eu) 37x37
+SKIP tiny  Digitus (assmann.com) 16x16
+OK   Phoenix (phoenixtechnologies.es) 48x48
+OK   Blackfire (blackfire.io) 256x256
+SKIP tiny  LINDY (lindy.de) 16x16
+OK   EDM Product (elektro3.com) 48x48
+FAIL fetch  Celly (exadi.es)
+OK   D-Link (dlink.com) 180x180
+OK   RISO (risoprinter.de) 32x32
+OK   Logitech (logitech.com) 144x144
+OK   Vention (vention.cc) 180x180
+OK   Kensington (accobrands.com) 256x256
+SKIP tiny  Nilox (nilox.com) 16x16
+OK   SonicWall (sonicwall.com) 48x48
+OK   Pantone (creaciones-euromoda.com) 134x134
+OK   Eckō Unltd. (safta.com) 100x100
+OK   Kappa (kappa.com) 32x32
+OK   Qnap (qnap.com) 256x256
+OK   Ewent (ewent-online.com) 40x40
+OK   Reebok (reebok.eu) 32x32
+OK   Apple (apple.com) 64x64
+OK   Poly (hp.com) 32x32
+FAIL fetch  Monolyth (monolyth.com)
+OK   NASA (navicom.fr) 32x32
+OK   Karkemis (karkemis.es) 192x192
+OK   Kyocera (kyoceradocumentsolutions.es) 32x32
+SKIP tiny  Axis (axis.com) 16x16
+OK   NGS (ngs.eu) 32x32
+OK   Benetton (safta.com) 100x100
+OK   EKWB (ekwb.com) 256x256
+OK   Denver Electronics (denver-electronics.com) 256x256
+OK   Nait Nait (safta.com) 100x100
+OK   Polaroid (safilo.com) 180x180
+OK   Aiwa (aiwaeurope.com) 192x192
+OK   T'NB (t-nb.com) 96x96
+OK   Radiant (grupocadarso.com) 256x256
+SKIP tiny  Electronic Arts (ea.com) 16x16
+OK   Sparco (sparco.it) 180x180
+OK   Orosound (orosound.com) 192x192
+OK   Rexel (accobrands.com) 256x256
+OK   Zebra (zebra.com) 192x192
+FAIL fetch  Rakuten (rakuten.eu)
+OK   Xgimi (xgimi.com) 32x32
+OK   Pantum (global.pantum.com) 60x60
+SKIP tiny  Eaton (eaton.nl) 16x16
+OK   B-Tech (btechavmounts.com) 180x180
+OK   Keenetic (keenetic.com) 48x48
+OK   Aisens (aisenstech.com) 256x256
+OK   Acer (acer.com) 256x256
+OK   LG (lg.com) 228x228
+OK   TCL (tcl.com) 32x32
+OK   Wella (wellacompany.com) 48x48
+OK   Daewoo (daewooelectronics.com) 32x32
+OK   CTOUCH (ctouch.eu) 180x180
+OK   Dell (dell.ie) 48x48
+OK   Samsonite (archivo2000.es) 64x64
+OK   TP-Link (tp-link.com) 152x152
+SKIP tiny  Kinglucky (kingluckyshop.com) 16x16
+OK   Asus (asus.com) 256x256
+OK   GoPro (gopro.com) 48x48
+FAIL fetch  Hercules (hercules-group.eu)
+OK   TooQ (tooq.com) 192x192
+OK   Montblanc (montblanc.com) 32x32
+OK   Schneider Electric (se.com) 32x32
+OK   Nike (nike.com) 192x192
+OK   Seiko (grupocadarso.com) 256x256
+FAIL fetch  iggual (iggual.net)
+OK   KLIPSCH (klipsch.com) 48x48
+OK   Hisense (hisense.de) 180x180
+OK   Sharp (sharp.eu) 180x180
+OK   Woxter (woxter.com) 192x192
+OK   approx! (approx.es) 192x192
+OK   GC (grupocadarso.com) 256x256
+OK   Sudio (sudio.com) 256x256
+OK   Cooler Master (coolermaster.com) 196x196
+OK   SPC (spc.es) 32x32
+OK   Ulefone (ulefone.com) 48x48
+OK   APC (enexo.com) 180x180
+OK   Reig (manualidadesreig.com) 144x144
+OK   Smartgyro (smartgyro.es) 48x48
+OK   Teltonika (teltonika.lt) 256x256
+FAIL fetch  Gigabyte (gigabyte.eu)
+OK   Tacens (tacens.es) 43x43
+OK   JBL (jbl.com) 196x196
+FAIL fetch  Iiyama (iiyama.com)
+OK   The Paw Patrol (revell.de) 96x96
+OK   Llongueras (llongueras.com) 32x32
+OK   Sunfold (innovagoods.com) 192x192
+OK   Artero (artero.com) 116x106
+OK   Garnier (garnier.com) 32x32
+OK   Luanvi (luanvi.com) 192x192
+OK   Mascow (arteregal.com) 192x192
+OK   Piz Buin (pizbuin.com) 32x32
+FAIL fetch  Schwarzkopf (henkel.es)
+OK   Essie (essie.fr) 32x32
+OK   Inca (ikilife.es) 142x142
+OK   Marvel (cerdagroup.com) 32x32
+OK   Haeger (haeger.pt) 192x192
+OK   Solgar (solgar.at) 48x48
+OK   Adidas (marcolin.com) 33x33
+OK   Crazy Color (crazycolor.co.uk) 32x32
+OK   Farmavita (farmavita.com) 114x114
+FAIL fetch  Lisap (lisap.com)
+FAIL fetch  Redken (redken.eu)
+OK   Montibello (hair.montibello.com) 256x256
+FAIL fetch  Idema (idema.pl)
+OK   Salerm (salerm.com) 256x256
+OK   Wahl Moser (wahlgmbh.com) 32x32
+SKIP tiny  TM Electron (tmelectron.com) 16x16
+OK   Mavala (mavala.com) 32x32
+OK   Nylabone (nylabone.nl) 256x256
+OK   Gloria (gloriapets.com) 132x129
+OK   Hunter (hunter.de) 180x180
+OK   Red Dingo (reddingo.com) 32x32
+OK   Rotho My Pet (rotho.com) 32x32
+FAIL fetch  Andis (andisspain.com)
+OK   Menforsan (menforsan.com) 32x32
+OK   Mickey Mouse (cerdagroup.com) 32x32
+OK   Iroha (irohanature.com) 32x32
+OK   Energy Sistem (energysistem.com) 32x32
+OK   Cállate la Boca (solerhispania.com) 192x192
+OK   Flexi (flexi.de) 256x256
+OK   Phyto Paris (es.phyto.com) 48x48
+OK   Jack & Jones (jackjones.com) 180x180
+OK   Hartmann (hartmann.info) 180x180
+SKIP tiny  Bullpadel (bullpadel.com) 16x16
+OK   OMP (karactermania.com) 29x32
+OK   Puma (eu.puma.com) 192x192
+FAIL fetch  Lakmé (lakme-cosmetics.com)
+OK   Nerf (safta.com) 100x100
+OK   UFESA (ufesa.com) 96x96
+OK   Sofsole (implus.com) 180x180
+OK   Casio (casio.com) 192x192
+OK   Filomatic (solerhispania.com) 192x192
+FAIL fetch  Ecran (ecran.com)
+OK   BigBuy Home (bigbuy.eu) 256x256
+OK   Drasanvi (drasanvi.com) 192x192
+OK   Martinelia (aquariuscosmetic.com) 192x192
+SKIP tiny  Sally Hansen (sallyhansen.com) 16x16
+OK   Olaplex (olaplex.com) 32x32
+FAIL fetch  Lickimat (gesto.de)
+OK   Harry Potter (cerdagroup.com) 32x32
+OK   The Nightmare Before Christmas (cerdagroup.com) 32x32
+SKIP tiny  Spider-Man (cefatoys.com) 16x16
+SKIP tiny  Pokémon (bizak.es) 16x16
+OK   Batman (cerdagroup.com) 32x32
+OK   Stitch (cayro.es) 256x256
+FAIL fetch  Indiana Jones (indianajones-eu.com)
+OK   The Little Mermaid (colorbaby.es) 192x192
+OK   Star Wars (cerdagroup.com) 32x32
+OK   DC Comics (educaborras.com) 256x256
+OK   The Goonies (abyssecorp.com) 256x256
+OK   Disney (asmodee.es) 181x181
+OK   JATA (jata.es) 192x192
+FAIL fetch  Super Mario (epochparaimaginar.es)
+SKIP tiny  Nayeco (nayeco.com) 16x16
+OK   Babyliss (conair.com) 196x196
+FAIL fetch  Snackys (snackys.de)
+FAIL fetch  Gremlins (es.simbatoys.com)
+OK   Real Valladolid C.F. (safta.com) 100x100
+OK   Bondi Sands (bondisands.eu) 32x32
+FAIL fetch  SensiKare (sensikare.com)
+FAIL fetch  Back to the Future (es.simbatoys.com)
+SKIP tiny  Kerastase (loreal.com) 16x16
+OK   Jurassic Park (cerdagroup.com) 32x32
+OK   The Mandalorian (cerdagroup.com) 32x32
+OK   Gabby's Dollhouse (cerdagroup.com) 32x32
+OK   Minnie Mouse (cerdagroup.com) 32x32
+OK   Orbegozo (orbegozo.com) 192x192
+OK   Nomination (nomination.com) 32x32
+OK   Fama Fabré (famafabre.com) 48x48
+OK   Jordan (nike.com) 192x192
+OK   Only & Sons (onlyandsons.com) 180x180
+OK   Lilo & Stitch (karactermania.com) 29x32
+OK   Hi-Tec (hi-tec.com) 96x96
+OK   Champion (championstore.com) 48x48
+OK   Morellato (grupocadarso.com) 256x256
+OK   Volcom (volcom.eu) 32x32
+OK   Dog Gone Smart (doggonesmart.com) 192x192
+SKIP tiny  Goldwell (kaosalondivision.com) 16x16
+FAIL fetch  Emilio Pucci (emiliopucci.com)
+OK   Bally (bally.eu) 180x180
+OK   Trixie (trixie.de) 48x48
+OK   Mustang (mustang-jeans.com) 128x129
+OK   Solac (solac.com) 32x32
+OK   Pepe Jeans (grupocadarso.com) 256x256
+OK   XTI (xtistore.com) 32x32
+OK   Sergio Tacchini (sergiotacchini.com) 180x180
+OK   Alpecin (alpecin.com) 152x152
+OK   Timberland (marcolin.com) 33x33
+OK   Rip Curl (ripcurl.eu) 256x256
+OK   Hello Kitty (reig.es) 32x32
+OK   Hawkers (hawkersco.com) 256x256
+FAIL fetch  Inodorina (inodorina.com)
+OK   Gillette (gillette.fr) 256x256
+OK   Coachi (companyofanimals.com) 256x256
+OK   Hansaplast (hansaplast.com) 48x48
+OK   Tristar (tristar.eu) 96x96
+OK   Brasileras (brasileras.eu) 256x256
+OK   Pantene (pg.com) 180x180
+OK   Peppa Pig (berjuan.com) 144x144
+OK   Medisana (medisana.com) 256x256
+OK   Kerasilk (kerasilk.com) 48x48
+OK   The Lion King (cerdagroup.com) 32x32
+OK   Minecraft (cerdagroup.com) 32x32
+OK   Vichy (vichy.es) 48x48
+OK   Lola Cosmetics (cfpinedo.com) 180x180
+OK   The Avengers (cerdagroup.com) 32x32
+OK   Hs Sprenger (sprenger.de) 64x64
+OK   Emporio Armani (essilorluxottica.com) 48x48
+OK   Elixa (elixa.net) 55x55
+OK   Wilson (wilson.com) 48x48
+OK   Revivre (revivre.it) 180x180
+OK   Vans (vans.eu) 180x180
+OK   Hugo Boss (hugoboss.com) 180x180
+OK   Ferplast (ferplast.com) 32x32
+OK   Lorus (grupocadarso.com) 256x256
+OK   New Era (neweracap.com) 32x32
+OK   Guess (guess.eu) 196x196
+FAIL fetch  Isegrim (isegrim.de)
+OK   Sebastian (wellacompany.com) 48x48
+OK   Cofra (cofra.it) 150x150
+OK   Chronotech (relojitos.com) 200x195
+FAIL fetch  Swatch (es.swatchgroup.com)
+OK   Demeliss (abcosmetique.com) 256x256
+OK   Kenneth Cole (marcolin.com) 33x33
+OK   Sting (safilo.com) 180x180
+OK   Fila (derigo.com) 256x256
+FAIL fetch  Converse (marchon.com)
+OK   Lozza (derigo.com) 256x256
+OK   Furla (grupocadarso.com) 256x256
+OK   Zadig & Voltaire (derigo.com) 256x256
+OK   Just Cavalli (robertocavalli.com) 256x256
+OK   Tods (marcolin.com) 33x33
+OK   Missoni (safilo.com) 180x180
+OK   Jimmy Choo (row.jimmychoo.com) 152x152
+OK   Skagen (grupocadarso.com) 256x256
+OK   Jason Hyde (grupocadarso.com) 256x256
+OK   Bottega Veneta (bottegaveneta.com) 48x48
+OK   Montres de Luxe (relojitos.com) 200x195
+OK   Tous (tous.com) 48x48
+FAIL fetch  Victoria Beckham (marchon.com)
+OK   Folli Follie (relojitos.com) 200x195
+OK   Pandora (grupocadarso.com) 256x256
+OK   Porsche (derigo.com) 256x256
+OK   Paul Hewitt (paul-hewitt.com) 100x100
+OK   Alpha Saphir (relojitos.com) 200x195
+OK   Hackett (hackett.com) 256x256
+OK   Cristian Lay (cristianlay.com) 228x228
+OK   Sif Jakobs (sifjakobs.com) 32x32
+OK   Lefties (lefties.com) 50x49
+OK   TheRubz (therubz.com) 192x192
+OK   Ania Haie (grupocadarso.com) 256x256
+OK   Mido (midowatches.com) 48x48
+OK   Tommy Hilfiger (es.tommy.com) 256x256
+OK   Tom Hope (relojitos.com) 200x195
+OK   Time Force (relojitos.com) 200x195
+OK   Bellevue (relojitos.com) 200x195
+OK   La Petite Story (relojitos.com) 200x195
+FAIL fetch  Hally & Son (avm1959.it)
+OK   Italia Independent (relojitos.com) 200x195
+OK   I Am (relojitos.com) 200x195
+FAIL fetch  Watx & Colors (watxandcolors.com)
+OK   Breil (bindagroup.com) 48x48
+OK   Watx (grupocadarso.com) 256x256
+OK   Panarea (panareastore.com) 32x32
+OK   My Imenso (myimenso.eu) 42x42
+OK   Time-It (relojitos.com) 200x195
+OK   Xenox (stuetz.com) 192x192
+OK   Arabians (relojitos.com) 200x195
+OK   Ti Sento (grupocadarso.com) 256x256
+FAIL fetch  Viceroy (munreco.com)
+OK   Marc Ecko (def-shop.com) 180x180
+OK   Laura Biagiotti (laurabiagiotti.it) 192x192
+OK   Harry Larys (harrylarys.com) 80x80
+OK   LGR (lgrworld.com) 192x192
+OK   Thomas Sabo (thomassabo.com) 192x192
+OK   666 Barcelona (relojitos.com) 200x195
+OK   Pesavento (grupocadarso.com) 256x256
+OK   Rosefield (grupocadarso.com) 256x256
+OK   Rosefield (grupocadarso.com) 256x256
+SKIP tiny  Adore (jadorejewelry.net) 16x16
+OK   Carrera (revell.de) 96x96
+OK   GCDS (gcds.it) 32x32
+OK   Julius K9 (julius-k9.com) 32x32
+OK   Glamour (relojitos.com) 200x195
+OK   Save Brave (savebrave.de) 32x32
+
+ok=295 fail=58 skipped(existing)=2
+=== ended 2026-06-12T14:49:04+02:00 ===

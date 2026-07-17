@@ -1,0 +1,22 @@
+{
+  "processed": {
+    "SYD": {
+      "status": "no_change",
+      "at": 1781226181624
+    },
+    "GAU": {
+      "status": "updated",
+      "fields": [
+        "about"
+      ],
+      "at": 1781228345363
+    },
+    "YBL": {
+      "status": "updated",
+      "fields": [
+        "about"
+      ],
+      "at": 1781228347128
+    }
+  }
+}
