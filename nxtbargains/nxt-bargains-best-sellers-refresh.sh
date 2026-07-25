@@ -35,7 +35,7 @@ run_fetch() {
 # data/best-sellers-<store>.json caches are retained (served as-is). Amazon
 # Product Info2 is Amazon-only, so it cannot backfill those marketplaces.
 run_fetch "Amazon" scripts/fetch-amazon-product-info2-best-sellers.mjs --categories --limit=20 --details-limit=3
-run_fetch "eBay" scripts/fetch-ebay.mjs --limit=30
+run_fetch "eBay" scripts/fetch-ebay.mjs --categories --limit=15
 
 if [ "$success" -gt 0 ]; then
   echo "$LOG_PREFIX $success source(s) refreshed, rebuilding frontend"
