@@ -34,7 +34,7 @@ run_fetch() {
 # Search RapidAPI, which is no longer subscribed. Those steps were removed; their
 # data/best-sellers-<store>.json caches are retained (served as-is). Amazon
 # Product Info2 is Amazon-only, so it cannot backfill those marketplaces.
-run_fetch "Amazon" scripts/fetch-amazon-product-info2-best-sellers.mjs --limit=30
+run_fetch "Amazon" scripts/fetch-amazon-product-info2-best-sellers.mjs --categories --limit=20 --details-limit=3
 run_fetch "eBay" scripts/fetch-ebay.mjs --limit=30
 
 if [ "$success" -gt 0 ]; then
