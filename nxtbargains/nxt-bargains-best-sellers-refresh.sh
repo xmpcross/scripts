@@ -27,14 +27,15 @@ run_fetch() {
   fi
 }
 
-# Use direct marketplace URLs so GeniusLink/affiliate tracking does not wrap Google Shopping pages.
-# Real-Time Product Search is used for stores where product-offers exposes merchant URLs.
-run_fetch "Amazon" scripts/fetch-best-sellers.mjs --limit=30
-run_fetch "eBay" scripts/fetch-ebay.mjs --limit=30
-run_fetch "Walmart" scripts/fetch-store-products.mjs --store=Walmart --query="electronics deals" --limit=30 --offer-timeout=5000 --out=best-sellers-walmart.json --source-url=https://www.walmart.com/shop/deals/electronics
-run_fetch "Target" scripts/fetch-store-products.mjs --store=Target --query="electronics deals" --limit=12 --out=best-sellers-target.json
-run_fetch "Best Buy" scripts/fetch-store-products.mjs --store="Best Buy" --query="best sellers" --limit=12 --out=best-sellers-bestbuy.json
-run_fetch "Newegg" scripts/fetch-store-products.mjs --store=Newegg --query="best sellers" --limit=12 --out=best-sellers-newegg.json
+# Amazon best sellers via the Amazon Product Info2 API (the only active RapidAPI
+# subscription). eBay uses the direct eBay Browse API.
+#
+# NOTE: Walmart/Target/Best Buy/Newegg best-sellers used the Real-Time Product
+# Search RapidAPI, which is no longer subscribed. Those steps were removed; their
+# data/best-sellers-<store>.json caches are retained (served as-is). Amazon
+# Product Info2 is Amazon-only, so it cannot backfill those marketplaces.
+run_fetch "Amazon" scripts/fetch-amazon-product-info2-best-sellers.mjs --categories --limit=20 --details-limit=3
+run_fetch "eBay" scripts/fetch-ebay.mjs --categories --limit=15
 
 if [ "$success" -gt 0 ]; then
   echo "$LOG_PREFIX $success source(s) refreshed, rebuilding frontend"
