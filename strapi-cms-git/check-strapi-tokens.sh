@@ -22,8 +22,8 @@ ENV_FILES=(
   /opt/projects/*/.env
   /opt/nxt-job-runner/.env
   /opt/nxt-job-runner/.env.local
-  /opt/strapi-cms-git/backend/nxt-sourcing/.env
-  /opt/strapi-cms-git/backend/nxt-sourcing/.env.local
+  /kspellman/projects/nxt-sourcing/.env
+  /kspellman/projects/nxt-sourcing/.env.local
   /opt/strapi-cms-git/backend/ai-writer-cli/.env
   /opt/strapi-cms-git/backend/strapi-deploy/.env
 )
